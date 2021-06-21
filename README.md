@@ -3,25 +3,33 @@
 This is a readme file for my GitHub repo. First website project for Code Institute.
 We learn HTML and CSS.
 
-## We Live to Travel
-The main purpose of the website is to promote tourism, to show the wildest and most beutiful places in Ireland.
-I want present information, photos and locations of interesting places that are worth to seeing.
-You havent seen Ireland like this before !
-Good idea, right?
-
-The website supposed to contain:
-* Home page
-* Gallery (Photos)
-* Contact page
-
-Table of Contents
+### Table of Contents
+* Description
 * Headers
 * Useful Links
 * Images
 * Commands 
 * Reference Links
+* Author Info
 
-### Headers
+## Description 
+We Live to Travel.
+The main purpose of the website is to promote tourism, to show the wildest and most beutiful places in Ireland.
+We have to remember that everything can be an attraction: monuments, a good restaurant, a bicycle trail, canoeing, a vantage point, a forest, a ruin or a town nearby.
+On this website I want to present information, photos and locations of interesting places that are worth to seeing.
+You havent seen Ireland like this before !
+Good idea, right?
+
+#### The website supposed to contain:
+* Home page
+* Gallery (Photos)
+* Contact page
+
+#### Technologies
+* HTML - will help build a solid foundation.
+* CSS - define the appearance of elements and their design.
+
+## Headers
 # H1
 ## H2
 ### H3
@@ -35,27 +43,37 @@ Alt-H1
 Alt-H2
 ------
 
-### Useful Links
+## Useful Links
 [I'm compare your own code to the source code and highlight the differences between them.]
 (https://www.diffchecker.com)
+
 [I'm an explanation what is semantic markup.]
 (https://html.com/semantic-markup)
+
 [I'm a HTML/CSS style guide for students]
 (https://www.granneman.com/webdev/coding/html-css-style-guide-students#css-style-rules)
+
 [I'm organizing files and folder structure for web pages]
 (https://stuyhsdesign.wordpress.com/basic-html/directory-structure)
+
 [I'm google fonts used to change text]
 (https://fonts.google.com)
+
 [I'm an example of google fonts] 
 (https://developers.google.com/fonts/docs/getting_started)
+
 [I'm an web's most popular icon set and toolkit.]
 (https://fontawesome.com)
 
-### Images
+## Images
 Here's our logo 
 
-### Commands
+## Commands
 To browse the pages, in the terminal, type: python3 -m http.server
+
+## Reference Links
+
+## Author Info
 
 ---
 Happy coding!
