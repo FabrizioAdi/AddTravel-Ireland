@@ -9,4 +9,17 @@
 body {
     font-family: Merienda, cursive;
     font-weight: 300;
+    color: #2F4F4F;
+}
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #696969;
+}
+
+#logo {
+    float: right;
+    font-size: 280%;
 }
