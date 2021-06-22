@@ -5,21 +5,29 @@
     padding: 0;
     border: 0;
 }
-
 body {
     font-family: Merienda, cursive;
     font-weight: 300;
     color: #2F4F4F;
 }
-
-h1, h2 {
+h2 {
     font-family: Roboto, sans-serif;
-    text-transform: uppercase;
     letter-spacing: 4px;
     color: #696969;
 }
-
 #logo {
     float: right;
     font-size: 280%;
+}
+/* Setup logo images */
+.palm-logo {
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: url('../images/palm-logo.webp') no-repeat center center;
+}
+.palm-logo h1 {
+position: relative;
+top: 18px;
+right: 10px;
 }
