@@ -18,8 +18,9 @@ h2 {
 #logo {
     float: right;
     font-size: 280%;
+    color: darkgreen;
 }
-/* Setup logo images */
+/* palm-logo images */
 .palm-logo {
     float: right;
     width: 100px;
@@ -30,4 +31,14 @@ h2 {
 position: relative;
 top: 18px;
 right: 10px;
+}
+/* menu position */
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-left: 30px;
 }
