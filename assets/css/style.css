@@ -8,37 +8,20 @@
 body {
     font-family: Merienda, cursive;
     font-weight: 300;
-    color: #2F4F4F;
 }
-h2 {
-    font-family: Roboto, sans-serif;
-    letter-spacing: 4px;
-    color: #696969;
-}
-#logo {
+.logo {
     float: right;
-    font-size: 280%;
-    color: darkgreen;
+    font-size: 250%;
+    margin-right: 30px;
 }
-/* palm-logo images */
-.palm-logo {
+header img {
     float: right;
-    width: 100px;
-    height: 100px;
-    background: url('../images/palm-logo.webp') no-repeat center center;
-}
-.palm-logo h1 {
-position: relative;
-top: 18px;
-right: 10px;
-}
-/* menu position */
-#menu {
-    font-size: 100%;
-    letter-spacing: 4px;
-}
-#menu li {
-    float: left;
-    list-style-type: none;
-    margin-left: 30px;
-}
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+  }
+header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
