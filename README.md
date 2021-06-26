@@ -37,11 +37,10 @@ Good idea, right?
 ##### H5
 ###### H6
 
+
 Alternatively, for H1 and H2, an underline style:
 Alt-H1
-======
 Alt-H2
-------
 
 ## Useful Links
 [I'm compare your own code to the source code and highlight the differences between them.]

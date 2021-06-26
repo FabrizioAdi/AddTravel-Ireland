@@ -10,6 +10,8 @@ body {
     font-weight: 300;
     background-color: #eee;
 }
+/* name and logo image */
+
 .logo {
     float: right;
     font-size: 250%;
@@ -27,10 +29,13 @@ header h1 {
     top: 18px;
     left: 10px;
   }
+
+  /* navigation menu bar */
+  
   nav {
-      width: 100%;
-      height: 100px;
-      background-color: #fff;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
   }
 ul {
     margin-left: 50px;
@@ -50,3 +55,5 @@ ul li a{
 ul li a:hover {
     color: #009900;
 }
+/* cliffs of moher image */
+
