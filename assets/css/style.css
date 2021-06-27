@@ -8,7 +8,17 @@
 body {
     font-family: Merienda, cursive;
     font-weight: 300;
-    background-color: #eee;
+    color: #333;
+}
+#cover {
+    background-image: url('../images/cliffs-of-moher.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    
+
 }
 /* name and logo image */
 
@@ -18,42 +28,40 @@ body {
     margin-right: 50px;
     color: #009900;
 }
-header img {
+.header img {
     float: right;
     width: 80px;
     height: 80px;
     margin-top: 10px;
   }
-header h1 {
+.header h1 {
     position: relative;
     top: 18px;
     left: 10px;
   }
 
   /* navigation menu bar */
-  
-  nav {
+
+.menu {
     width: 100%;
     height: 100px;
-    background-color: #fff;
   }
-ul {
+.menu ul {
     margin-left: 50px;
 
 }
-ul li {
+.menu li {
     list-style: none;
     display: inline-block;
-    line-height: 75px;
+    line-height: 80px;
 }
-ul li a{
+.menu a{
     text-decoration: none;
     font-size: 25px;
     padding: 0 20px;
     color: #ff3300;
 }
-ul li a:hover {
+.menu a:hover {
     color: #009900;
 }
 /* cliffs of moher image */
-
