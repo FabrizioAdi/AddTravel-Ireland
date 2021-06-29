@@ -10,6 +10,11 @@ body {
     font-weight: 300;
     color: #333;
 }
+#container {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* background header image */
 
@@ -57,17 +62,46 @@ body {
 .menu a:hover {
     color: #009900;
 }
-/* slea-head image */
+/* cliffs of moher image */
 
-#slea-head {
+#cliffs {
     clear: both;
     padding: 10px;
-    height: 400px;
+    height: 200px;
     width: 100%;
+    background-color: chocolate;
 }
-#slea-head img{
-    height: 400px;
-    width: 100%;
 
+/* Section with 3 images */
 
+#image1 {
+    float: left;
+    width: 460px;
+    height: 500px;
+    padding: 10px;
+    background-color: brown;
+
+}
+#image2 {
+    float: left;
+    height: 500px;
+    padding: 10px;
+    width: 520px;
+    background-color: chartreuse;
+
+}
+#image3 {
+    float: left;
+    width: 460px;
+    min-height: 500px;
+    padding: 10px;
+    background-color: blue;
+
+}
+
+/* footer */
+
+#footer {
+    clear: both;
+    background-color: cyan;
 }
