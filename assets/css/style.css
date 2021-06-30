@@ -8,7 +8,8 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #333;
+    color: #fff;
+    background-color: dimgray;
 }
 #container {
     width: 1500px;
@@ -24,7 +25,12 @@ body {
     float: right;
     font-size: 250%;
     margin-right: 50px;
-    color: #009900;
+    font-family: Merienda, cursive;
+    letter-spacing: 4px;
+    color: white;
+}
+.logo:hover {
+    color:limegreen;
 }
 .header img {
     float: right;
@@ -37,7 +43,11 @@ body {
     top: 18px;
     left: 10px;
   }
-
+  h2 {
+      text-align: center;
+      font-family: Merienda, cursive;
+      padding: 10px;
+  }
   /* navigation menu bar */
 
 .menu {
@@ -57,10 +67,10 @@ body {
     text-decoration: none;
     font-size: 25px;
     padding: 0 20px;
-    color: #ff3300;
+    color: #fff;
 }
 .menu a:hover {
-    color: #009900;
+    color:orangered;
 }
 /* cliffs of moher image */
 
