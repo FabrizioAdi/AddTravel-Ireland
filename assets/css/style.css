@@ -66,37 +66,91 @@ body {
 
 #cliffs {
     clear: both;
-    padding: 10px;
-    height: 200px;
     width: 100%;
-    background-color: chocolate;
+    height: 400px;
+}
+#cliffs-image {
+    background-image: url('../images/cliffs-of-moher.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
 }
 
 /* Section with 3 images */
 
 #image1 {
     float: left;
-    width: 460px;
+    width: 500px;
     height: 500px;
-    padding: 10px;
     background-color: brown;
 
 }
 #image2 {
     float: left;
+    width: 500px;
     height: 500px;
-    padding: 10px;
-    width: 520px;
     background-color: chartreuse;
 
 }
 #image3 {
     float: left;
-    width: 460px;
+    width: 500px;
     min-height: 500px;
-    padding: 10px;
     background-color: blue;
 
+}
+
+/* photo section */
+
+#photo1 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+#photo2 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: crimson;
+}
+#photo3 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: darkgoldenrod;
+}
+#photo4 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: darkgreen;
+}
+#photo5 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: darksalmon;
+}
+#photo6 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: darkslateblue;
+}
+#photo7 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: deeppink;
+}
+#photo8 {
+    float: left;
+    width: 375px;
+    height: 100px;
+    background-color: deepskyblue;
 }
 
 /* footer */
