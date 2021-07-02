@@ -81,7 +81,7 @@ body {
 #cliffs {
     clear: both;
     width: 100%;
-    height: 400px;
+    height: 600px;
 }
 #cliffs-image {
     background-image: url('../images/cliffs-of-moher.jpg');
@@ -96,29 +96,36 @@ body {
 
 #image1 {
     float: left;
-    width: 500px;
-    height: 500px;
-    background-color: brown;
+    width: 490px;
+    height: 490px;
+    padding: 5px;
 }
-#image2 {
-    float: left;
-    width: 500px;
-    height: 500px;
-}
-#sligo {
-    background-image: url('../images/sligo.jpg');
+#doonagore {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    width: 500px;
-    height: 500px;
+}
+#image2 {
+    float: left;
+    width: 490px;
+    height: 490px;
+    padding: 5px;
+}
+#sligo {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #image3 {
     float: left;
-    width: 500px;
-    min-height: 500px;
-    background-color: blue;
-
+    width: 490px;
+    min-height: 490px;
+    padding: 5px;
+}
+#fanad {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 /* photo section */
