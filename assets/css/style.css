@@ -216,3 +216,26 @@ body {
     height: 50px;
     background-color: #3095d3;
 }
+/* Gallery page */
+
+/* Contact page */
+
+#rectangle {
+    clear: both;
+    width: 1500px;
+    height: 150px;
+    background-color: red;
+}
+#square {
+    float: left;
+    width: 700px;
+    height: 500px;
+    margin-right: 100px;
+    background-color: #833AB4;
+}
+#square2 {
+    float: left;
+    width: 700px;
+    height: 500px;
+    background-color:#d94348;
+}
