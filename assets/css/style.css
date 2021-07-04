@@ -239,11 +239,19 @@ body {
     height: 700px;
     background-color:#d94348;
 }
-
+.form {
+    clear: left;
+    padding: 10px;
+    
+}
 input {
     width: 200px;
     border: 2px solid #009900;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 15px;
     padding: 10px;
+    margin-bottom: 40px;
+}
+.text-input {
+    text-align: center;
 }

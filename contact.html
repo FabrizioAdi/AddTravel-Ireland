@@ -40,21 +40,31 @@
         <section class="form">
             <form method="POST" action="" class="contact-form">
             <h2>Contact us</h2>
-
-            <label for="first-name">First Name</label> <i class="fas fa-file-signature">:</i>
+            <br>
+            <div>
+            <label for="first-name"><b>First Name</b></label> <i class="fas fa-file-signature">:</i>
             <input id="first-name" type="text" name="first_name" class="text-input" placeholder="What is your name ?" required>
             
-            <label for="last-name">Last Name</label> <i class="fas fa-file-signature">:</i>
+            <label for="last-name"><b>Last Name</b></label> <i class="fas fa-file-signature">:</i>
             <input id="last-name" type="text" name="last_name" class="text-input" placeholder="What is your surname ?" required>
-        
-            <label for="email-address">Email Address</label> <i class="fas fa-envelope-square">:</i>
+            </div>
+            <div>
+            <label for="email-address"><b>Email Address</b></label> <i class="fas fa-envelope-square">:</i>
+            <br>
             <input id="email-address" type="email" name="email_address" class="text-input" placeholder="What is your email ?" required>
-        
-            <label for="text-message">Text message</label> <i class="fas fa-pencil-alt"></i>
-            <textarea id="message" type="text" name="message" rows="10" cols="30"></textarea>
-    
+            </div>
+            <div>
+            <label for="birthdate"><b>Date of Birth(Optional)</b></label> <i class="fas fa-birthday-cake">:</i>
+            <br>
+            <input type="date" id="birthdate" name="birthdate" placeholder="Date of Birth">
+            </div>
+            <div>
+            <label for="text-message"><b>Text message</b></label> <i class="fas fa-pencil-alt"></i>
+            <br>
+            <textarea name="message" id="message" type="text" rows="10" cols="80"></textarea>
+            </div>
             <input type="submit" value="Send Message">
-            
+
             </form>
         </section>
     </div>
