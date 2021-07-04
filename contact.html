@@ -38,20 +38,25 @@
     </div>
     <div id="square2">
         <section class="form">
-            <form method="POST" action="" class="contact-form"></form>
+            <form method="POST" action="" class="contact-form">
             <h2>Contact us</h2>
-            <label for="first-name">First Name:</label> <i class="fas fa-file-signature"></i>
-            <input id="first-name" type="text" name="first_name" class="text-input" required>
 
-            <label for="last-name">Last Name:</label> <i class="fas fa-file-signature"></i>
-            <input id="last-name" type="text" name="last_name" class="text-input" required>
-
-            <label for="email-address">Email Address:</label> <i class="fas fa-envelope-square"></i>
-            <input id="email-address" type="email" name="email_address" class="text-input" required>
-
-            <label for="message">Text message</label> <i class="fas fa-pencil-alt"></i>
+            <label for="first-name">First Name</label> <i class="fas fa-file-signature">:</i>
+            <input id="first-name" type="text" name="first_name" class="text-input" placeholder="What is your name ?" required>
+            
+            <label for="last-name">Last Name</label> <i class="fas fa-file-signature">:</i>
+            <input id="last-name" type="text" name="last_name" class="text-input" placeholder="What is your surname ?" required>
+        
+            <label for="email-address">Email Address</label> <i class="fas fa-envelope-square">:</i>
+            <input id="email-address" type="email" name="email_address" class="text-input" placeholder="What is your email ?" required>
+        
+            <label for="text-message">Text message</label> <i class="fas fa-pencil-alt"></i>
+            <textarea id="message" type="text" name="message" rows="10" cols="30"></textarea>
+    
+            <input type="submit" value="Send Message">
+            
+            </form>
         </section>
-
     </div>
 </div>
 </body>

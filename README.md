@@ -64,6 +64,9 @@ Alt-H2
 [I'm an web's most popular icon set and toolkit.]
 (https://fontawesome.com)
 
+[I'm box shadow generator - I give you a code :)]
+https://html-css-js.com/css/generator/box-shadow/
+
 ## Images
 Here's our logo 
 
