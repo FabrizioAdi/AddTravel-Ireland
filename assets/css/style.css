@@ -184,36 +184,40 @@ body {
 #footer {
     width: 100%;
     height: 100%;
+    text-align: center;
 }
-
+#footer i {
+    font-size: 35px;
+    color: #fff;
+}
 /* social media */
 
 #youtube {
     float: left;
     margin: 10px 50px 10px 500px;
     width: 50px;
-    height: 50px;
+    height: 40px;
     background-color: #d94348;
 }
 #facebook {
     float: left;
     margin: 10px 50px 10px 50px;
     width: 50px;
-    height: 50px;
+    height: 40px;
     background-color: #4668b3;
 }
 #instagram {
     float: left;
     margin: 10px 50px 10px 50px;
     width: 50px;
-    height: 50px;
+    height: 40px;
     background-color: #833AB4;
 }
 #twitter {
     float: left;
     margin: 10px 500px 10px 50px;
     width: 50px;
-    height: 50px;
+    height: 40px;
     background-color: #3095d3;
 }
 /* Gallery page */
