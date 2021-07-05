@@ -133,49 +133,49 @@ body {
 #photo1 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: cornflowerblue;
 }
 #photo2 {
     float: left;
     width: 375px;
-    height: 100px;
-    background-color: crimson;
+    height: 200px;
+    background-color:darkslategray;
 }
 #photo3 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: darkgoldenrod;
 }
 #photo4 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: darkgreen;
 }
 #photo5 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: darksalmon;
 }
 #photo6 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: darkslateblue;
 }
 #photo7 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: deeppink;
 }
 #photo8 {
     float: left;
     width: 375px;
-    height: 100px;
+    height: 200px;
     background-color: deepskyblue;
 }
 
@@ -251,6 +251,7 @@ body {
     border-radius: 20px;
 }
 input {
+    background: transparent;
     width: 80%;
     border: 2px solid #009900;
     border-radius: 10px;
