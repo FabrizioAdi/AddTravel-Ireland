@@ -245,7 +245,10 @@ body {
 }
 .form {
     clear: left;
+    position: absolute;
     padding: 10px;  
+    background-color:burlywood;
+    border-radius: 20px;
 }
 input {
     width: 80%;
@@ -253,7 +256,20 @@ input {
     border-radius: 10px;
     font-size: 15px;
     padding: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
+}
+.submit {
+    border: none;
+    display: block;
+    margin: auto;
+    width: 200px;
+    font-size: 15px;
+    color: white;
+    padding: 15px 10px;
+    background-color: #8b1dd4;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    cursor: pointer;
 }
 .text-input {
     text-align: left;
