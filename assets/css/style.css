@@ -245,17 +245,16 @@ body {
 }
 .form {
     clear: left;
-    padding: 10px;
-    
+    padding: 10px;  
 }
 input {
-    width: 200px;
+    width: 80%;
     border: 2px solid #009900;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 15px;
     padding: 10px;
     margin-bottom: 40px;
 }
 .text-input {
-    text-align: center;
+    text-align: left;
 }
