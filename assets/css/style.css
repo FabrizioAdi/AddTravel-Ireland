@@ -52,6 +52,24 @@ body {
       text-align: center;
       padding: 10px;
   }
+  .text-desc {
+      font-size: 20px;
+      font-style: italic;
+      text-align: center;
+      letter-spacing: 1px;
+  }
+  .desc {
+      text-align: justify;
+  }
+  .desc-castle {
+      text-align: justify;
+  }
+  .desc-cities {
+      text-align: center;
+  }
+  .desc-cliffs {
+      text-align: justify;
+  }
   /* navigation menu bar */
 
 .menu {
@@ -97,7 +115,7 @@ body {
 #image1 {
     float: left;
     width: 490px;
-    height: 490px;
+    height: 600px;
     padding: 5px;
 }
 #doonagore {
@@ -108,7 +126,7 @@ body {
 #image2 {
     float: left;
     width: 490px;
-    height: 490px;
+    height: 600px;
     padding: 5px;
 }
 #sligo {
@@ -119,7 +137,7 @@ body {
 #image3 {
     float: left;
     width: 490px;
-    min-height: 490px;
+    min-height: 600px;
     padding: 5px;
 }
 #fanad {
@@ -223,12 +241,25 @@ body {
 
 /* Gallery page */
 
-#gallery {
-    width: 1500px;
-    clear: both;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0;
+#tile-left {
+    float: left;
+    width: 750px;
+    height: 600px;
+}
+.tile1 {
+    width: 750px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+#tile-right {
+    float: left;
+    width: 750px;
+    height: 600px;
+}
+.tile2 {
+    width: 750px;
+    height: 200px;
+    margin-bottom: 15px;
 }
 
 /* Contact page */
