@@ -62,12 +62,18 @@ body {
       text-align: justify;
   }
   .desc-castle {
+      padding-right: 10px;
       text-align: justify;
+
   }
   .desc-cities {
       text-align: center;
   }
+  .cities {
+      padding-left: 150px;
+  }
   .desc-cliffs {
+      padding-left: 10px;
       text-align: justify;
   }
   /* navigation menu bar */
@@ -151,50 +157,42 @@ body {
 #photo1 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: cornflowerblue;
+    height: 250px;
 }
 #photo2 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color:darkslategray;
+    height: 250px;
 }
 #photo3 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: darkgoldenrod;
+    height: 250px;
 }
 #photo4 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: darkgreen;
+    height: 250px;
 }
 #photo5 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: darksalmon;
+    height: 250px;
 }
 #photo6 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: darkslateblue;
+    height: 250px;
 }
 #photo7 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: deeppink;
+    height: 250px;
 }
 #photo8 {
     float: left;
     width: 375px;
-    height: 200px;
-    background-color: deepskyblue;
+    height: 250px;
 }
 
 /* footer */
