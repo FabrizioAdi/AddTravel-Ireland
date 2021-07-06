@@ -73,6 +73,9 @@ Here's our logo
 ## Commands
 To browse the pages, in the terminal, type: python3 -m http.server
 
+## Conclusion
+Creating a website is an adventure and a real challenge. The greatest joy, however, is the moment when everything that has been done works without any problems :P Reflecting on the whole aspect of the website, I know that I could have made the code clearer and more readable, I think there is a lot of mess there. But it is a great lesson for the future. In my opinion, the website looks very good visually and that's what it's about.
+
 ## Reference Links
 
 ## Author Info
