@@ -8,7 +8,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #fff;
+    color: white;
     background-color: dimgray;
 }
 #container {
@@ -17,7 +17,7 @@ body {
     margin-right: auto;
 }
 
-/* background header image */
+/* background header image ? Maybe */
 
 /* name and logo image */
 
@@ -52,6 +52,8 @@ body {
       text-align: center;
       padding: 10px;
   }
+  /* text styling for home page */
+
   .text-desc {
       font-size: 20px;
       font-style: italic;
@@ -268,15 +270,19 @@ body {
     background-size: cover;
     background-position:center;
     height: 800px;
-
 }
-
 #square {
     float: left;
     width: 700px;
     height: 700px;
     margin-right: 100px; 
+    text-align: justify;
 }
+#square p {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
 #square2 {
     float: left;
     width: 700px;
@@ -312,4 +318,16 @@ input {
 }
 .text-input {
     text-align: left;
+}
+/* Media queries */
+
+@media screen and (max-width: 1000px) {
+
+}
+
+@media screen and (max-width: 500px) {
+    #container {
+    width: 500px;
+    margin-left: 10px;
+    margin-right: 10px;}
 }
