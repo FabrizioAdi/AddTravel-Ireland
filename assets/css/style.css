@@ -92,12 +92,14 @@ body {
     list-style: none;
     display: inline-block;
     line-height: 80px;
+
 }
 .menu a{
     text-decoration: none;
     font-size: 25px;
     padding: 0 20px;
     color: #fff;
+
 }
 .menu a:hover {
     color:orangered;
@@ -319,15 +321,51 @@ input {
 .text-input {
     text-align: left;
 }
-/* Media queries */
+/* Media queries */ 
+/* Ipad */
 
-@media screen and (max-width: 1000px) {
-
+@media screen and (max-width: 780px) {
+    #container {
+        width: 780px;
+    }
+     
 }
 
-@media screen and (max-width: 500px) {
+/* Iphone 6,7,8 */
+
+@media screen and (max-width: 380px) {
     #container {
-    width: 500px;
-    margin-left: 10px;
-    margin-right: 10px;}
+        width: 380px;
+        margin-left: 20px;
+    }
+    .logo {
+        float: right;
+        font-size: 120%;
+        margin-right: 20px;
+        letter-spacing: 2px;
+    }
+    .header img {
+        float: right;
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+      }
+    .header h1 {
+        position: relative;
+        top: 14px;
+        left: 7px;
+    }
+    .menu ul {
+        margin-left: 10px;
+    
+    }
+    .menu li {
+        display: block;
+        line-height: 30px;
+    }
+    .menu a{
+        text-decoration: none;
+        font-size: 15px;
+        padding: 0 20px;
+    }
 }
