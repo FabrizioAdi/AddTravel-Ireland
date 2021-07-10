@@ -11,7 +11,7 @@ The website's logo was created from the first letters of my name, plus the word 
 * Description
 * Website Contain
 * Technologies
-* Headers
+* Tips for readme
 * Useful Links
 * Images
 * Commands 
@@ -42,7 +42,8 @@ You havent seen Ireland like this before !
 * W3C HTML Valitator - HTML Validator
 * W3C CSS Validator - CSS Validator
 
-## Headers
+## Tips for Readme 
+# Headers
 # H1
 ## H2
 ### H3
