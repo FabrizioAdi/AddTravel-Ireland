@@ -1,10 +1,16 @@
-# Add Travel Ireland
+# Introduction - Add Travel Ireland
 
 This is a readme file for my GitHub repo. First website project for Code Institute.
-We learn HTML and CSS.
+We learn HTML and CSS. 
+From the beginning of my adventure with coding the first idea for a website was a travel site. Simple because I like traveling a lot and I stayed with that idea. I managed to see most of the presented places, so it was easier for me to search and add information.
+The website's logo was created from the first letters of my name, plus the word Travel.
 
 ### Table of Contents
+* Introduction
+* Goals
 * Description
+* Website Contain
+* Technologies
 * Headers
 * Useful Links
 * Images
@@ -12,13 +18,15 @@ We learn HTML and CSS.
 * Reference Links
 * Author Info
 
+## Goals 
+The main goal of the website was to present Ireland in an eye-catching way. I would even say fabulous way. Through this website people will be able to find ideas for travel and leisure activities.
+
 ## Description 
-We Live to Travel.
+We Live to Travel. Is one of my slogans, because what else to do with our free time.
 The main purpose of the website is to promote tourism, to show the wildest and most beutiful places in Ireland.
-We have to remember that everything can be an attraction: monuments, a good restaurant, a bicycle trail, canoeing, a vantage point, a forest, a ruin or a town nearby.
+We have to remember that everything can be an attraction: monuments, cliffs, a good restaurant, a bicycle trail, canoeing, a vantage point, a forest, a ruin or a town nearby.
 On this website I want to present information, photos and locations of interesting places that are worth to seeing.
 You havent seen Ireland like this before !
-Good idea, right?
 
 #### The website supposed to contain:
 * Home page
@@ -28,6 +36,11 @@ Good idea, right?
 #### Technologies
 * HTML - will help build a solid foundation.
 * CSS - define the appearance of elements and their design.
+* Balsamic.com - Wireframes
+* Gitpod - Container based development platform. Ready-to-code development environments in the cloud accessible through your browser and your local IDE.
+* Github - The most popular of the websites that host Git repositories in the cloud. Thanks to a service like GitHub, we can share our code with other developers and work with them remotely over time.
+* W3C HTML Valitator - HTML Validator
+* W3C CSS Validator - CSS Validator
 
 ## Headers
 # H1
@@ -79,6 +92,6 @@ Creating a website is an adventure and a real challenge. The greatest joy, howev
 ## Reference Links
 
 ## Author Info
-
+FabrizioAdi
 ---
 Happy coding!
