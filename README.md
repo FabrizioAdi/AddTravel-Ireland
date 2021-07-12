@@ -8,16 +8,16 @@ The website's logo was created from the first letters of my name, plus the word 
 
 ### Table of Contents
 * [Introduction] (#introduction)
-* [Goals] (#goals)
-* [Description] (#description)
-* [Website Contain] (#website-contain)
-* [Technologies] (#technologies)
-* [Tips for readme] (#tips-for-readme)
-* [Useful Links] (#useful-links)
-* [Images] (#images)
-* [Commands] (#commands) 
-* [Reference Links] (#reference-links)
-* [Author Info] (#author-info)
+* [Goals] (## goals)
+* [Description] (## description)
+* [Website Contain] (## website-contain)
+* [Technologies] (## technologies)
+* [Tips for readme] (## tips-for-readme)
+* [Useful Links] (## useful-links)
+* [Images] (## images)
+* [Commands] (## commands) 
+* [Reference Links] (## reference-links)
+* [Author Info] (## author-info)
 
 ## Goals 
 The main goal of the website was to present Ireland in an eye-catching way. I would even say fabulous way. Through this website people will be able to find ideas for travel and leisure activities.
