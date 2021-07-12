@@ -1,4 +1,5 @@
 # Introduction - Add Travel Ireland
+[I am the link to the website] (https://fabrizioadi.github.io/AddTravel-Ireland/)
 
 This is a readme file for my GitHub repo. First website project for Code Institute.
 We learn HTML and CSS. 
@@ -6,17 +7,17 @@ From the beginning of my adventure with coding the first idea for a website was 
 The website's logo was created from the first letters of my name, plus the word Travel.
 
 ### Table of Contents
-* Introduction
-* Goals
-* Description
-* Website Contain
-* Technologies
-* Tips for readme
-* Useful Links
-* Images
-* Commands 
-* Reference Links
-* Author Info
+* [Introduction] (#introduction)
+* [Goals] (#goals)
+* [Description] (#description)
+* [Website Contain] (#website-contain)
+* [Technologies] (#technologies)
+* [Tips for readme] (#tips-for-readme)
+* [Useful Links] (#useful-links)
+* [Images] (#images)
+* [Commands] (#commands) 
+* [Reference Links] (#reference-links)
+* [Author Info] (#author-info)
 
 ## Goals 
 The main goal of the website was to present Ireland in an eye-catching way. I would even say fabulous way. Through this website people will be able to find ideas for travel and leisure activities.
@@ -33,7 +34,7 @@ You havent seen Ireland like this before !
 * Gallery (Photos)
 * Contact page
 
-#### Technologies
+## Technologies
 * HTML - will help build a solid foundation.
 * CSS - define the appearance of elements and their design.
 * Balsamic.com - Wireframes
@@ -41,20 +42,6 @@ You havent seen Ireland like this before !
 * Github - The most popular of the websites that host Git repositories in the cloud. Thanks to a service like GitHub, we can share our code with other developers and work with them remotely over time.
 * W3C HTML Valitator - HTML Validator
 * W3C CSS Validator - CSS Validator
-
-## Tips for Readme 
-# Headers
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-
-Alternatively, for H1 and H2, an underline style:
-Alt-H1
-Alt-H2
 
 ## Useful Links
 [I'm compare your own code to the source code and highlight the differences between them.]
@@ -86,7 +73,6 @@ Here's our logo
 
 ## Commands
 To browse the pages, in the terminal, type: python3 -m http.server
-
 ## Conclusion
 Creating a website is an adventure and a real challenge. The greatest joy, however, is the moment when everything that has been done works without any problems :P Reflecting on the whole aspect of the website, I know that I could have made the code clearer and more readable, I think there is a lot of mess there. But it is a great lesson for the future. In my opinion, the website looks very good visually and that's what it's about.
 
