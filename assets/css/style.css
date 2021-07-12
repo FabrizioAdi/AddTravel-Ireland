@@ -47,6 +47,8 @@ body {
       text-align: center;
       font-family: Merienda, cursive;
       padding: 10px;
+      margin-right: 5%;
+      margin-left: 5%;
   }
   h3 {
       text-align: center;
@@ -59,11 +61,11 @@ body {
       font-style: italic;
       text-align: center;
       letter-spacing: 1px;
-      margin-left: 10%;
-      margin-right: 10%;
   }
   .desc {
       text-align: justify;
+      margin-left: 5%;
+      margin-right: 5%;
   }
   .desc-castle {
       padding-right: 10px;
@@ -374,7 +376,7 @@ input {
         left: 7px;
     }
     .menu ul {
-        margin-left: 5px;
+        margin-left: 1%;
     
     }
     .menu li {
