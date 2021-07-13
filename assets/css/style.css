@@ -13,17 +13,17 @@ body {
 }
 #container {
     width: 1500px;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
 }
-
 /* background header image ? Maybe */
 
 /* name and logo image */
 
 .logo {
     float: right;
-    font-size: 250%;
+    font-size: 200%;
     margin-right: 50px;
     font-family: Merienda, cursive;
     letter-spacing: 4px;
@@ -34,8 +34,8 @@ body {
 }
 .header img {
     float: right;
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin-top: 10px;
   }
 .header h1 {
@@ -47,8 +47,8 @@ body {
       text-align: center;
       font-family: Merienda, cursive;
       padding: 10px;
-      margin-right: 5%;
-      margin-left: 5%;
+      margin-top: 10px;
+      margin-bottom: 10px;
   }
   h3 {
       text-align: center;
@@ -66,23 +66,31 @@ body {
       text-align: justify;
       margin-left: 5%;
       margin-right: 5%;
+      margin-bottom: 20px;
   }
   .desc-castle {
-      padding-right: 10px;
       text-align: justify;
-      margin-left: 3%;
-
+      margin-left: 2%;
+      margin-right: 2%;
+      margin-top: 15px;
+      margin-bottom: 20px;
   }
   .desc-cities {
       text-align: center;
+      margin-top: 15px;
   }
   .cities {
-      padding-left: 150px;
+      margin-left: 30%;
+      margin-right: 15%;
+      margin-bottom: 20px;
   }
   .desc-cliffs {
       padding-left: 10px;
       text-align: justify;
-      margin-right: 3%;
+      margin-right: 2%;
+      margin-left: 2%;
+      margin-top: 15px;
+      margin-bottom: 20px;
   }
   a {
       text-decoration: none;
@@ -96,7 +104,7 @@ body {
 
 .menu {
     width: 100%;
-    height: 100px;
+    height: 85px;
   }
 .menu ul {
     margin-left: 50px;
@@ -108,12 +116,11 @@ body {
     line-height: 80px;
 
 }
-.menu a{
+.menu a {
     text-decoration: none;
     font-size: 25px;
     padding: 0 20px;
     color: #fff;
-
 }
 .menu a:hover {
     color:orangered;
@@ -293,8 +300,6 @@ body {
     margin-right: 80px;
     margin-bottom: 50px;
 }
-
-
 /* Contact page */
 
 #cover-image {
@@ -324,7 +329,6 @@ body {
     margin-top: 2%;
     margin-left: 30%;
     margin-right: 30%;
-    background: dimgray;
 }
 input {
     background: transparent;
@@ -355,7 +359,117 @@ input {
 /* Media queries */ 
 /* Ipad */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
+    #container {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .logo {
+        float: right;
+        font-size: 130%;
+        margin-right: 30px;
+        letter-spacing: 2px;
+    }
+    .header img {
+        float: right;
+        width: 45px;
+        height: 45px;
+        margin-top: 15px;
+      }
+    .header h1 {
+        position: relative;
+        top: 20px;
+        left: 10px;
+    }
+    .menu ul {
+        margin-left: auto;
+    }
+    .menu li {
+        display: inline;
+    }
+    .menu a {
+        text-decoration: none;
+        font-size: 18px;
+    }
+    #image1, #image2, #image3 {
+        height: 700px;
+        width: 95%;
+        margin: 0;
+    }
+    #doonagore img {
+        width: 105%;
+        margin-top: 20px;
+    } 
+    #sligo img {
+        width: 105%;
+    }
+    #fanad img {
+        width: 105%;
+    }
+    .cities {
+        text-align: left;
+        margin-left: 20%;
+    }
+    #photo img {
+        width: 100%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    h3 {
+        padding-left: 50px;
+        padding-bottom: 20px;
+    }
+
+/* Gallery */
+
+.gallery {
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.gallery img {
+    width: 99%;
+}
+.gallery-dublin {
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.gallery-dublin img {
+    width: 99%;
+}
+.gallery-kilkee {
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.gallery-kilkee img {
+    width: 99%;
+}
+/* Contact page */
+
+#square {
+    width: 100%;
+    height: 1000px;
+}
+
+#square p {
+    text-align: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: justify;
+    letter-spacing: none;
+    font-size: 15px;
+}
+.form {
+    width: 75%;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+#message {
+    width: 90%;
+}
     
      
 }
@@ -370,7 +484,7 @@ input {
     .logo {
         float: right;
         font-size: 100%;
-        margin-right: 30px;
+        margin-right: 25px;
         letter-spacing: 2px;
     }
     .header img {
@@ -386,7 +500,6 @@ input {
     }
     .menu ul {
         margin-left: 1%;
-    
     }
     .menu li {
         display: block;
@@ -399,7 +512,6 @@ input {
     #image1, #image2, #image3 {
         height: 750px;
         width: 95%;
-        margin: 0;
     }
     #doonagore img {
         width: 105%;
@@ -412,13 +524,18 @@ input {
     }
     .cities {
         text-align: left;
-        padding-left: 10%;
+        margin-left: 4%;
     }
     #youtube, #facebook, #instagram, #twitter {
         margin: 10px 16px 10px 15px;  
     }
     #photo img {
         width: 88%;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    h3 {
+        padding-left: 5px;
     }
 
 /* Gallery */
