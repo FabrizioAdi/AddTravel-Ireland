@@ -146,7 +146,7 @@ body {
 #image1 {
     float: left;
     width: 490px;
-    height: 600px;
+    height: 720px;
     padding: 5px;
 }
 #doonagore {
@@ -157,7 +157,7 @@ body {
 #image2 {
     float: left;
     width: 490px;
-    height: 600px;
+    height: 720px;
     padding: 5px;
 }
 #sligo {
@@ -168,7 +168,7 @@ body {
 #image3 {
     float: left;
     width: 490px;
-    min-height: 600px;
+    height: 720px;
     padding: 5px;
 }
 #fanad {

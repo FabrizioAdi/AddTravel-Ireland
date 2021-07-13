@@ -42,6 +42,7 @@ You havent seen Ireland like this before !
 * Github - The most popular of the websites that host Git repositories in the cloud. Thanks to a service like GitHub, we can share our code with other developers and work with them remotely over time.
 * W3C HTML Valitator - HTML Validator
 * W3C CSS Validator - CSS Validator
+* Google Font Awsome
 
 ## Useful Links
 [I'm compare your own code to the source code and highlight the differences between them.]
