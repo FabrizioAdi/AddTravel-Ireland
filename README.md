@@ -1,10 +1,15 @@
 # Introduction - Add Travel Ireland
+Hello good people !
 [I am the link to the website] (https://fabrizioadi.github.io/AddTravel-Ireland/)
 
-This is a readme file for my GitHub repo. First website project for Code Institute.
-We learn HTML and CSS. 
-From the beginning of my adventure with coding the first idea for a website was a travel site. Simple because I like traveling a lot and I stayed with that idea. I managed to see most of the presented places, so it was easier for me to search and add information.
-The website's logo was created from the first letters of my name, plus the word Travel.
+ A website for people who would like to coming on hollidays to Ireland. Also for people who would like to know more about Green Island and its most beutiful places. This website promotes tourism, gives ideas and information with little bit general knowledge, basically encouraging sightseeing.
+
+ The website consists of a three pages: home page, gallery, contact. The home page presents general information about the Ireland its largest cities, castles, the coastline with amazing cliffs, which are undoubtedly one of the most amazing attractions. There are also links to other places worth seeing, referring to wikipedia for more information. The gallery page contains mainly photos from selected places. Contact page as the name suggests, it is supposed to enable contact. Collect opinions and ideas. The user and the people visiting the website can have the most say in this matter. This will help meet people expectations in the future and help change the website to make it better. At the end of each page you can find links to social media. The entire website design contains a lot beautiful quality photos, photos that were supposed to present to Ireland in a magical way.
+ 
+ I wanted to create a simple project with little text, I hope I did it. In my opinion people as myself don’t like busy looking websites, where is lots of text to read. I may be wrong but should the website look like a book to read? :) I like simplicity and beauty.
+
+From the beginning of my adventure with coding the first idea for a website was a travel site. Simple because I like traveling a lot and I stayed with that idea. I managed to see most of the presented places, so it was easier for me to search and add information and photos.
+The website's logo idea was created from the first letters of my name, plus the word Travel. I can't yet create an appropriate drawing logo myself, so I used a google image. Although the most suitable logo would still be the palm logo.
 
 ### Table of Contents
 * [Introduction] (#introduction)
@@ -23,10 +28,12 @@ The website's logo was created from the first letters of my name, plus the word 
 The main goal of the website was to present Ireland in an eye-catching way. I would even say fabulous way. Through this website people will be able to find ideas for travel and leisure activities.
 
 ## Description 
-We Live to Travel. Is one of my slogans, because what else to do with our free time.
+We Live to Travel. 
+Is one of my slogans, because what else to do with our free time.
 The main purpose of the website is to promote tourism, to show the wildest and most beutiful places in Ireland.
 We have to remember that everything can be an attraction: monuments, cliffs, a good restaurant, a bicycle trail, canoeing, a vantage point, a forest, a ruin or a town nearby.
 On this website I want to present information, photos and locations of interesting places that are worth to seeing.
+
 You havent seen Ireland like this before !
 
 #### The website supposed to contain:
@@ -81,5 +88,3 @@ Creating a website is an adventure and a real challenge. The greatest joy, howev
 
 ## Author Info
 FabrizioAdi
----
-Happy coding!
