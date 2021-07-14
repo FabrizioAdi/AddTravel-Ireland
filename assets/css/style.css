@@ -222,39 +222,54 @@ body {
 
 /* footer */
 
-#footer {
+footer {
     width: 100%;
-    height: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+.social-media i {
+    font-size: 30px;
+    margin: 1%;
+    padding-left: 8px;
+    padding-top: 3px;
+    color: #fff;   
+}
+.footer-bottom {
+    width: 100%;
+    height: auto;
     text-align: center;
 }
-#footer i {
-    font-size: 35px;
-    color: #fff;
+.footer-bottom p {
+    font-size: 14px;
+    word-spacing: 2px;
+}
+.footer-bottom span {
+    text-transform: uppercase;
 }
 /* social media */
 
-#youtube {
+.youtube {
     float: left;
     margin: 15px 50px 10px 500px;
     width: 50px;
     height: 40px;
     background-color: #d94348;
 }
-#facebook {
+.facebook {
     float: left;
     margin: 15px 50px 10px 50px;
     width: 50px;
     height: 40px;
     background-color: #4668b3;
 }
-#instagram {
+.instagram {
     float: left;
     margin: 15px 50px 10px 50px;
     width: 50px;
     height: 40px;
     background-color: #833AB4;
 }
-#twitter {
+.twitter {
     float: left;
     margin: 15px 500px 10px 50px;
     width: 50px;
@@ -459,7 +474,6 @@ input {
     margin-left: 1%;
     margin-right: 1%;
     text-align: justify;
-    letter-spacing: none;
     font-size: 15px;
 }
 .form {
@@ -524,7 +538,7 @@ input {
         text-align: left;
         margin-left: 4%;
     }
-    #youtube, #facebook, #instagram, #twitter {
+    .youtube, .facebook, .instagram, .twitter {
         margin: 10px 18px 10px 18px;   
     }
     #photo img {
