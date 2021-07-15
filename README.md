@@ -1,5 +1,5 @@
-# Introduction - Add Travel Ireland
-[I am the link to the website] (https://fabrizioadi.github.io/AddTravel-Ireland/)
+# [Introduction](#introduction) - Add Travel Ireland
+[I am the link to the website](https://fabrizioadi.github.io/AddTravel-Ireland/)
 Hello good people !
 
  A website for people who would like to coming on hollidays to Ireland. Also for people who would like to know more about Green Island and its most beutiful places. This website promotes tourism, gives ideas and information with little bit general knowledge, basically encouraging sightseeing.
@@ -15,7 +15,7 @@ From the beginning of my adventure with coding the first idea for a website was 
 * [Website Contain](####website-contain)
 * [User journey](##user-journey)
 * [Technologies](##technologies)
-* [Tips for readme](##tips-for-readme)
+* [Deployment](##deployment)
 * [Useful Links](##useful-links)
 * [Images](##images)
 * [Commands](##commands) 
@@ -56,7 +56,26 @@ At the end of each page you can find links to social media. The entire website d
 * Github - The most popular of the websites that host Git repositories in the cloud. Thanks to a service like GitHub, we can share our code with other developers and work with them remotely over time.
 * W3C HTML Valitator - HTML Validator
 * W3C CSS Validator - CSS Validator
-* Google Font Awsome
+* Google Font Awsome - Very resource rich service offered by Google
+
+## Deployment
+#### Step to Using Github Pages
+1. In the GitHub Repository from the project: https://github.com/FabrizioAdi/AddTravel-Ireland
+2. Click the "Settings" Tab.
+3. Scroll Down to the Git Hub Pages Heading.
+4. There will be a message - Pages settings now has its own dedicated tab! press the - Check it out here!
+5. Select "Master Branch" as the source.
+6. The Page will reload "Settings" again.
+7. Scroll to GitHub pages heading and there will now be a clickable link to the website: https://fabrizioadi.github.io/AddTravel-Ireland/
+8. Click this link for the live deployed website.
+
+#### Run Locally
+1. In the GitHub Repository from the project: https://github.com/FabrizioAdi/AddTravel-Ireland
+2. Click Clone or Download
+3. Copy Git URL from the dialogue box
+4. Open your developement editor of choice and open a terminal window in a directory of your choice
+5. Use the 'git clone' command in terminal followed by the copied git URL
+6. A clone of the project will be created locally on your machine
 
 ## Useful Links
 [I'm compare your own code to the source code and highlight the differences between them.](https://www.diffchecker.com)
@@ -69,7 +88,7 @@ At the end of each page you can find links to social media. The entire website d
 
 [I'm google fonts used to change text](https://fonts.google.com)
 
-[I'm an example of google fonts] (https://developers.google.com/fonts/docs/getting_started)
+[I'm an example of google fonts](https://developers.google.com/fonts/docs/getting_started)
 
 [I'm an web's most popular icon set and toolkit.](https://fontawesome.com)
 
