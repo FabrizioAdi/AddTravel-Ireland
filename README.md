@@ -1,4 +1,4 @@
-# [Introduction](#introduction) - Add Travel Ireland
+# Introduction - Add Travel Ireland
 [I am the link to the website](https://fabrizioadi.github.io/AddTravel-Ireland/)
 Hello good people !
 
@@ -9,23 +9,30 @@ Hello good people !
 From the beginning of my adventure with coding the first idea for a website was a travel site. Simple because I like traveling a lot and I stayed with that idea. I managed to see most of the presented places, so it was easier for me to search and add information and photos. The website's logo idea was created from the first letters of my name, plus the word Travel. I can't yet create an appropriate drawing logo myself, so I used a google image logo. Although the most suitable logo would still be the palm logo.
 
 ### Table of Contents
-* [Introduction](#introduction)
-* [Goals](##goals)
-* [Description](##description)
-* [Website Contain](####website-contain)
-* [User journey](##user-journey)
-* [Technologies](##technologies)
-* [Deployment](##deployment)
-* [Useful Links](##useful-links)
-* [Images](##images)
-* [Commands](##commands) 
-* [Reference Links](##reference-links)
-* [Author Info](##author-info)
+- [Introduction - Add Travel Ireland](#introduction---add-travel-ireland)
+    + [Table of Contents](#table-of-contents)
+  * [Goals](#goals)
+  * [Description](#description)
+      - [Website Contain](#website-contain)
+  * [User journey](#user-journey)
+  * [Technologies](#technologies)
+  * [Deployment](#deployment)
+      - [Step to Using Github Pages](#step-to-using-github-pages)
+      - [Run Locally](#run-locally)
+  * [Useful Links](#useful-links)
+  * [Images](#images)
+  * [Commands](#commands)
+  * [Conclusion](#conclusion)
+  * [Reference Links](#reference-links)
+  * [Author Info](#author-info)
 
-## Goals 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+## Goals
 The main goal of the website was to present Ireland in an eye-catching way. I would even say fabulous way. Through this website people will be able to find ideas for travel and leisure activities.
 
-## Description 
+## Description
 We Live to Travel. 
 Is one of my slogans, because what else to do with our free time. Not including coding.
 The main purpose of the website is to promote tourism, to show the wildest and most beutiful places in Ireland.

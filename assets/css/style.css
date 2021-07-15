@@ -355,7 +355,7 @@ footer {
     margin-right: 30%;
 }
 input {
-    background: transparent;
+    background: dimgray;
     width: 80%;
     border: 2px solid #f7f4f4;
     border-radius: 10px;
@@ -442,10 +442,22 @@ input {
         margin-right: 25%;
         padding: 2%;
     }
-    .social-media {
-        margin: 15px 20px 15px 20px;
+    .youtube {
+        float: left;
+        margin: 15px 35px 15px 260px;
     }
-    
+    .facebook {
+        float: left;
+        margin: 15px 35px 15px 35px;
+    }
+    .instagram {
+        float: left;
+        margin: 15px 35px 15px 35px;
+    }
+    .twitter {
+        float: left;
+        margin: 15px 260px 15px 35px;
+    }
     h3 {
         padding-left: 150px;  
         padding-bottom: 15px; 
