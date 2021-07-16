@@ -21,7 +21,7 @@ From the beginning of my adventure with coding the first idea for a website was 
       - [Step to Using Github Pages](#step-to-using-github-pages)
       - [Run Locally](#run-locally)
   * [Useful Links](#useful-links)
-  * [Images](#images)
+  * [Testing](#testing)
   * [Commands](#commands)
   * [Conclusion](#conclusion)
   * [Reference Links](#reference-links)
@@ -157,8 +157,16 @@ Input contain hints such as "What's your name?" After a few tries, I decided to 
 
 [I'm box shadow generator - I give you a code :)](https://html-css-js.com/css/generator/box-shadow/)
 
-## Images
-Here's our logo 
+## Testing
+ When testing the site with the W3C html validator, the main errors were typing errors. Currently, all three pages have no errors as shown in the image below.
+
+![](assets/images/Testing.png)
+
+When it comes to the css validator testing I did not encounter too many errors, the only errors were the errors of the unnecessary line of code which I have to delete. Currently, all three pages have no errors as shown in the image below.
+
+![](assets/images/Testing2.png)
+
+Throughout the process of creating the page, I tried to use Chrome Dev Tools, this allowed an instant feedback on any changes tested. Through the Dev Tools I also tested the responsiveness of the website. I encountered quite a lot of difficulties with the responsiveness of my pages, some elements work fine, some unfortunately not.
 
 ## Commands
 To browse the pages, in the terminal, type: python3 -m http.server
