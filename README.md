@@ -55,8 +55,10 @@ At the end of each page you can find links to social media. The entire website d
 ## User journey
 The user begins his adventure on the home page. There they will find a background image with a moving information frame. In the upper left corner there is an menu for navigating to other website pages. In the upper right corner you can find a logo with a photo.
 On this website you will find mainly information about Ireland and places worth to seeing.
+![](assets/images/Prtsc.png)
 
 Scrolling down to the next section of home page shows images and divided sections presenting general information about castles, towns and the coast.
+![](assets/images/Prtsc2.png)
 
 The next page present places to visit where you can find more photos of places worth seeing. Below the picture there is the name of the place that can be clicked to get more information from the website connected to it (mainly wikipedia). Clicking on the place name is also decorated with the index finger from the google font.
 
@@ -77,6 +79,7 @@ Input contain hints such as "What's your name?" After a few tries, I decided to 
 * W3C HTML Valitator - HTML Validator
 * W3C CSS Validator - CSS Validator
 * Google Font Awsome - Very resource rich service offered by Google
+* Google images
 
 ## Deployment
 #### Step to Using Github Pages
@@ -124,6 +127,10 @@ To browse the pages, in the terminal, type: python3 -m http.server
 Creating a website is an adventure and a real challenge. The greatest joy, however, is the moment when everything that has been done works without any problems :P Reflecting on the whole aspect of the website, I know that I could have made the code clearer and more readable, I think there is a lot of mess there. But it is a great lesson for the future. In my opinion, the website looks very good visually and that's what it's about.
 
 ## Reference Links
+
+##### Acknowledgements
+
+Also thank you to the Code Institute slack channel, tutor Kasia and mentor Precious Ijege.
 
 ## Author Info
 FabrizioAdi
