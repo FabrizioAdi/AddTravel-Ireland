@@ -53,6 +53,20 @@ The website consists of a three pages: home page, gallery, contact.
 At the end of each page you can find links to social media. The entire website design contains a lot beautiful quality photos, photos that were supposed to present to Ireland in a magical way.
 
 ## User journey
+The user begins his adventure on the home page. There they will find a background image with a moving information frame. In the upper left corner there is an menu for navigating to other website pages. In the upper right corner you can find a logo with a photo.
+On this website you will find mainly information about Ireland and places worth to seeing.
+
+Scrolling down to the next section of home page shows images and divided sections presenting general information about castles, towns and the coast.
+
+The next page present places to visit where you can find more photos of places worth seeing. Below the picture there is the name of the place that can be clicked to get more information from the website connected to it (mainly wikipedia). Clicking on the place name is also decorated with the index finger from the google font.
+
+At the bottom of the page user can find the social media links. Links should open in a new tab, transferring successively to youtube, facebook, instagram or twitter.
+
+Gallery page, as the name suggests, contains photos with the title of selected places in Ireland. At the top there is a navigation menu with a logo and below there are links to social media. Photos are wrapped in a frame to resemble wall photos or photos taken with an older cameras.
+
+The last page is the contact page. This section allows user to contact. Main idea is gather opinions and ideas. This should help meet user expectations in the future and help to change website to make it better.
+Input contain hints such as "What's your name?" After a few tries, I decided to leave a white frame with black text. Because the transparent or other colored frame does not blend well with the background photo.
+
 
 ## Technologies
 * HTML - will help build a solid foundation.
