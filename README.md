@@ -53,28 +53,37 @@ The website consists of a three pages: home page, gallery, contact.
 At the end of each page you can find links to social media. The entire website design contains a lot beautiful quality photos, photos that were supposed to present to Ireland in a magical way.
 
 ## User journey
-The user begins his adventure on the home page. There they will find a background image with a moving information frame. In the upper left corner there is an menu for navigating to other website pages. In the upper right corner you can find a logo with a photo.
+* The user begins his adventure on the home page. There they will find a background image with a moving information frame. In the upper left corner there is an menu for navigating to other website pages. In the upper right corner you can find a logo with a photo.
 On this website you will find general information about Ireland and places worth to seeing.
 
 ![](assets/images/Prtsc.png)
 
-Scrolling down to the next section of home page shows images and divided sections presenting general information about castles, towns and the coast.
+* Scrolling down to the next section of home page shows images and divided sections presenting general information about castles, towns and the coast.
 
 ![](assets/images/Prtsc2.png)
 
-The next section when scrolling down, present Places to visit where user can find more photos of places worth seeing. Below the picture there is the name of the place that can be clicked to get more information from the website connected to it (mainly wikipedia). Clicking on the place name is also decorated with the index finger from the google font.
+* The next section when scrolling down, present Places to visit where user can find more photos of places worth seeing. Below the picture there is the name of the place that can be clicked to get more information from the website connected to it (mainly wikipedia). Clicking on the place name is also decorated with the index finger from the google font.
 At the bottom of the page user can find the social media links. Links should open in a new tab, transferring successively to youtube, facebook, instagram or twitter.
 
 ![](assets/images/Prtsc3.png)
 
-Gallery page, as the name suggests, contains photos with the title of selected places in Ireland. At the top there is a navigation menu with a logo and below there are links to social media. Photos are wrapped in a frame to resemble wall photos or photos taken with an older cameras.
+* Gallery page, as the name suggests, contains photos with the title of selected places in Ireland. At the top there is a navigation menu with a logo and below there are links to social media. Photos are wrapped in a frame to resemble wall photos or photos taken with an older cameras.
 
 ![](assets/images/Prtsc4.png)
 
-The last page is the contact page. This section allows user to contact. Main idea is gather opinions and ideas. This should help meet user expectations in the future and help to change website to make it better.
+* The last page is the contact page. This section allows user to contact. Main idea is gather opinions and ideas. This should help meet user expectations in the future and help to change website to make it better.
 Input contain hints such as "What's your name?" After a few tries, I decided to leave a white frame with black text. Because the transparent or other colored frame does not blend well with the background photo.
 
 ![](assets/images/Prtsc7.png)
+
+#### User stories
+
+1. As a user, I would like to be able to access the site on diffrent devices, so I want to see the website on my phone or tablet.
+2. As a user, I want to be able to contact the publisher of the site so I can get more information or leave a fedback.
+3. As a user, I want to view a list of places, so I can select most interesting one.
+4. As a user, I want to see place name or where the displayed place is, so I can located on the map.
+5. As a user, I want to find out more about Ireland introduced on the Home page.
+6. As a user, I want an easy to navigate website to save time and not get frustrated or lost.
 
 ## Technologies
 * HTML - will help build a solid foundation.
@@ -130,9 +139,20 @@ Here's our logo
 To browse the pages, in the terminal, type: python3 -m http.server
 
 ## Conclusion
-Creating a website is an adventure and a real challenge. The greatest joy, however, is the moment when everything that has been done works without any problems :P Reflecting on the whole aspect of the website, I know that I could have made the code clearer and more readable, I think there is a lot of mess there. But it is a great lesson for the future. In my opinion, the website looks very good visually and that's what it's about.
+Creating a website is an adventure and a real challenge. The greatest joy, however, is the moment when everything that has been done works without any problems :P Reflecting on the whole aspect of the website, I know that I could have made the code clearer and more readable. I jumped too much around the code, introducing too many changes, which made me a bit lost and some things I did not have time to fix, such as media query for the tablet, some things work properly, some not ... This is my first website after two months of study, it is a great lesson for the future. I am well aware that this is not a well made website and many things would have done differently. In my opinion, the website looks very good visually and that's what it's about.
 
 ## Reference Links
+* I used Balsamiq to create wireframes in desktop, tablet and phone view. [Click me](https://balsamiq.com/)
+* I used google image serch. All photos were found by this site. [Click me](https://www.google.com/search?q=ireland&hl=en&tbm=isch&sxsrf=ALeKk034vrZ83U_C4_WYjYkJ1dlkB7ybqw%3A1626443730748&source=hp&biw=1600&bih=757&ei=0o_xYMvJK9O8gQayhY24CA&oq=ireland&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQsQMyBQgAELEDMgUIABCxAzIICAAQsQMQgwEyAggAMgIIADICCAAyAggAUIAMWMoUYJgXaABwAHgAgAF6iAHgA5IBAzYuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ved=0ahUKEwjL-sOG3-fxAhVTXsAKHbJCA4cQ4dUDCAc&uact=5)
+* General information about Ireland [click me](https://en.wikipedia.org/wiki/Ireland)
+* I mainly relied on CI and YouTube tutorials to create my codes.
+1. [Markdown readme image](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=4s)
+2. [Footer design](https://www.youtube.com/watch?v=zdA3qZNH1vc&t=338s)
+3. [Add and style image](https://www.youtube.com/watch?v=_w6N_nplmAw)
+4. [Background images](https://www.youtube.com/watch?v=33IinMVJf-M)
+5. [Logo](https://www.youtube.com/watch?v=Wa_QmxwpFC8)
+6. [Social media styling](https://www.youtube.com/watch?v=woVuUbDOeMk)
+7. CI Learning Management System Tutorials
 
 ##### Acknowledgements
 
