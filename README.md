@@ -15,6 +15,7 @@ From the beginning of my adventure with coding the first idea for a website was 
   * [Description](#description)
       - [Website Contain](#website-contain)
   * [User journey](#user-journey)
+  * [Features](#features)
   * [Technologies](#technologies)
   * [Deployment](#deployment)
       - [Step to Using Github Pages](#step-to-using-github-pages)
@@ -72,7 +73,6 @@ At the bottom of the page user can find the social media links. Links should ope
 ![](assets/images/Prtsc4.png)
 
 * The last page is the contact page. This section allows user to contact. Main idea is gather opinions and ideas. This should help meet user expectations in the future and help to change website to make it better.
-Input contain hints such as "What's your name?" After a few tries, I decided to leave a white frame with black text. Because the transparent or other colored frame does not blend well with the background photo.
 
 ![](assets/images/Prtsc7.png)
 
@@ -84,6 +84,31 @@ Input contain hints such as "What's your name?" After a few tries, I decided to 
 4. As a user, I want to see place name or where the displayed place is, so I can located on the map.
 5. As a user, I want to find out more about Ireland introduced on the Home page.
 6. As a user, I want an easy to navigate website to save time and not get frustrated or lost.
+
+## Features
+All three pages contain a navigation menu bar in the upper left corner where you can click to go to any of the three pages. I decided to put the navigation menu on the top left and the logo on the right, because most of the pages I am viewing are reversed and are sort of a standard. 
+Three pages also contain the same footer with stylized social media in it with a corresponding color.
+The main text fonts are Roboto, sans-serif; and for hedings I used merienda, coursive both fonts work very well with each other.
+The entire page have background-color: dimgray; text color: white; the idea for such a choice of colors was the CI template in gitpod. And it is also a stepping stone from some sort of standard white page with black text.
+
+I never know if a zebra is white with black stripes or black with white stripes :)
+
+#### Index.html (Home)
+The navigational menu turns white when hovering over it, and the logo also turns green.
+This page has a non moving background photo. This creates a nice visual effect of the page sliding over to this photo. Which also looks like it is winding up. The truth is I created this effect quite accidentally while playing with the codes. This photo presents one of the most popular places in Ireland, the cliff of moher, which attracts many visitors. 
+
+On the scrolling frame there is a quote and description about Ireland as a country, an island. Then user can find a three examples of diffrent landscapes. Presenting interesting facts about castles, cities and the coast of Ireland. The photos are placed next to each other in stylized rectangular divs named image1, image2, image3.
+
+Section Places to visit contains eight photos named photo with numbers up to 8. On the main page at a resolution of 1500px photos are placed next to each other. On the tablet there are two columns separated by a page body background color. Below on the name of the place, we will move to wikipedia pages where we can find out more. The links turns light blue on hover: P I'm a man, so white is white and black is black :D links is also indicated with a finger from google font awsome.
+
+So finally we are on the bottom of my page, here we can find links to social media with icon from google font, which I tried to put in small squares with the original color, which I found by typing in the google search engine. Of course, the links take us where they should.
+
+#### Gallery.html (Gallery)
+The gallery page is not too complicated, although it took a lot of work. Because the first idea of ​​arranging the photos was the idea of ​​arranging them in variations, two photos next to three with descriptions divided into two columns. Photos below were to have different layouts. After a few tries, I put four photos next to each other. But after consulting with my mentor, I decided to enlarge the photos and arrange them in two columns. As already mentioned photos are wrapped in a frame to resemble wall photos or photos taken with an older cameras.
+
+#### Contact.html (Contact)
+Contakt page contains a backgroun image on which the contact form is placed. The form's frames are slightly rounded.
+Input contain hints such as "What's your name?" After a few tries, I decided to leave a white frame with black text. Because the transparent or other colored frame does not blend well with the background photo. Send message button is purple to make it easier to see on the site.
 
 ## Technologies
 * HTML - will help build a solid foundation.
@@ -143,7 +168,7 @@ Creating a website is an adventure and a real challenge. The greatest joy, howev
 
 ## Reference Links
 * I used Balsamiq to create wireframes in desktop, tablet and phone view. [Click me](https://balsamiq.com/)
-* I used google image serch. All photos were found by this site. [Click me](https://www.google.com/search?q=ireland&hl=en&tbm=isch&sxsrf=ALeKk034vrZ83U_C4_WYjYkJ1dlkB7ybqw%3A1626443730748&source=hp&biw=1600&bih=757&ei=0o_xYMvJK9O8gQayhY24CA&oq=ireland&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQsQMyBQgAELEDMgUIABCxAzIICAAQsQMQgwEyAggAMgIIADICCAAyAggAUIAMWMoUYJgXaABwAHgAgAF6iAHgA5IBAzYuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ved=0ahUKEwjL-sOG3-fxAhVTXsAKHbJCA4cQ4dUDCAc&uact=5)
+* I used google image serch. All photos were found by this site. using terms such as: Ireland, most beutiful places, landscape, cities etc. [Click me](https://www.google.com/search?q=ireland&hl=en&tbm=isch&sxsrf=ALeKk034vrZ83U_C4_WYjYkJ1dlkB7ybqw%3A1626443730748&source=hp&biw=1600&bih=757&ei=0o_xYMvJK9O8gQayhY24CA&oq=ireland&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQsQMyBQgAELEDMgUIABCxAzIICAAQsQMQgwEyAggAMgIIADICCAAyAggAUIAMWMoUYJgXaABwAHgAgAF6iAHgA5IBAzYuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ved=0ahUKEwjL-sOG3-fxAhVTXsAKHbJCA4cQ4dUDCAc&uact=5)
 * General information about Ireland [click me](https://en.wikipedia.org/wiki/Ireland)
 * I mainly relied on CI and YouTube tutorials to create my codes.
 1. [Markdown readme image](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=4s)
@@ -154,7 +179,9 @@ Creating a website is an adventure and a real challenge. The greatest joy, howev
 6. [Social media styling](https://www.youtube.com/watch?v=woVuUbDOeMk)
 7. CI Learning Management System Tutorials
 
-##### Acknowledgements
+I am Jumping around and viewing many different type of tutorials, so should be much more links of them here, but honestly I don't even remember which one I watched.
+
+#### Acknowledgements
 
 Also thank you to the Code Institute slack channel, tutor Kasia and mentor Precious Ijege.
 
